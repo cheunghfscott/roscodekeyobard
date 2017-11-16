@@ -1,0 +1,2 @@
+keyboardcontrol
+-DCATKIN_DEVEL_PREFIX=/home/scottasus/keyboardcontrol_ws/devel -DCMAKE_INSTALL_PREFIX=/home/scottasus/keyboardcontrol_ws/install -G Unix Makefiles

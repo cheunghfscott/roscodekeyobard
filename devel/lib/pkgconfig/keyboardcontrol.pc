@@ -1,0 +1,8 @@
+prefix=/home/scottasus/keyboardcontrol_ws/devel
+
+Name: keyboardcontrol
+Description: Description of keyboardcontrol
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/scottasus/keyboardcontrol_ws/devel/lib 
+Requires: 
